@@ -11,6 +11,8 @@
 	}
 
 	.poptrox-popup {
+		min-width: 500px;
+		min-height: 500px;
 		background: transparentize(_palette(bg-alt), 0.075);
 		box-shadow: 0 1em 3em 0.5em rgba(0,0,0,0.25);
 		cursor: default;
